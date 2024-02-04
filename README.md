@@ -22,7 +22,7 @@ This landing page is a result of the AICTE internship task at Motioncut. It pres
 
 ## Preview
 
-![Pricing Landing Page Preview]([https://github.com/Bindu-1/Pricing-Landing-Page/blob/main/Screenshot%202024-02-04%20183934.png?raw=true])
+![Pricing Landing Page Preview](https://github.com/Bindu-1/Pricing-Landing-Page/blob/main/Screenshot%202024-02-04%20183934.png?raw=true)
 ## Usage
 
 1. Clone the repository:
