@@ -150,3 +150,66 @@ footer {
     background-color: #6db0c5;
     color: #fff;
 }
+
+@media only screen and (max-width: 768px) {
+  /* Adjustments for smaller screens */
+  .top-bar {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .left-top-item {
+    margin-bottom: 10px;
+  }
+
+  .top-bar-item {
+    margin: 0;
+    margin-bottom: 10px;
+  }
+
+  .plan-header {
+    margin-top: 30px;
+  }
+
+  .plan-header h1 {
+    font-size: 2rem;
+  }
+
+  .plan-header p {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .plan-boxes {
+    flex-direction: column;
+    align-items: center;
+    margin: 10px auto;
+  }
+
+  .plan-box {
+    width: 80%;
+    margin: 10px 0;
+  }
+
+  .plan-box h3 {
+    font-size: 1.5rem;
+  }
+
+  .plan-box h3::after {
+    height: 1px;
+  }
+
+  .plan-box p.price {
+    font-size: 1.2rem;
+  }
+
+  .plan-box p {
+    font-size: 1rem;
+  }
+
+  .plan-box button.signup-button {
+    font-size: 1.2rem;
+  }
+}
